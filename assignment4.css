@@ -1,7 +1,14 @@
 /*
   Don't forget to style the results from the search!
-  And anything elese you add to the application, for that matter.
+  And anything else you add to the application, for that matter.
 */
+
+.predictive-results {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  padding: 10px 46px 0 10px;
+}
 
 .flexsearch-wrapper {
   height: auto;
